@@ -1,0 +1,63 @@
+﻿@model IEnumerable<CoursesApp.Models.Comment>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+    ViewData["Title"] = "CommentPage";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="nav">
+    <div class="row">
+        <div class="title">Portfolio</div>
+
+
+        <div class="navItem">
+
+            <a asp-controller="Home" asp-action="Index">Home</a>
+            @if (SignInManager.IsSignedIn(User))
+            {
+
+                <a>@User.Identity.Name</a>
+
+
+                <form class="form-inline" asp-action="Logout" asp-controller="Account" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                    <button type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+                </form>
+
+            }
+            else
+            {
+
+
+                <a asp-action="Login" asp-controller="Account" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">Login</a>
+
+            }
+
+        </div>
+
+    </div>
+</div>
+<body style="background-color:#CDE0DF">
+    <div class="row">
+        <div style="margin-top:100px">
+            <h1 class="contactTitle">Comment</h1>
+
+            @foreach (var item in Model)
+            {
+                <div class="CommentText CommentWrapper">
+                    <div style="padding-bottom:20px">
+                        @Html.DisplayFor(model => item.Name) Said:
+                    </div>
+                    <div style="padding-bottom:20px">
+                        @Html.DisplayFor(model => item.CommentText) @{ if (User.IsInRole("Admin"))
+                            {<a asp-action="DeleteComment" asp-route-id="@item.CommentId">Delete Comment </a>}
+                            }
+                    </div>
+                </div>
+            }
+
+            <a asp-controller="Home" asp-action="CreateComment" class="CommentText" style="padding-left:10px">Leave a Comment</a>
+        </div>
+    </div>
+</body>

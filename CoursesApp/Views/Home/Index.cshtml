@@ -1,0 +1,259 @@
+﻿@model IEnumerable<CoursesApp.Models.MyBio>
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+<!--
+  Index.cshtml - display list of all courses
+
+  Jim Fawcett, CSE686 - Internet Programming, Spring 2019
+-->
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="nav">
+    <div class="row">
+        <div class="title">Portfolio</div>
+
+
+        <div class="navItem">
+
+            <a href="#home">Home</a>
+            <a href="#event">About Me</a>
+            <a href="#project">My project</a>
+            <a href="#contact">Contact Me</a>
+
+            @if (SignInManager.IsSignedIn(User))
+            {
+
+                <a asp-controller="Home" asp-action="CommentPage">Comment</a>
+                <a>Hello, Recruiter!</a>
+
+
+                <form class="form-inline" asp-action="Logout" asp-controller="Account" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                    <button type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+                </form>
+
+            }
+            else
+            {
+
+
+                <a asp-action="Login" asp-controller="Account" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">Login</a>
+
+            }
+
+        </div>
+
+    </div>
+</div>
+
+<div class="contentWrapper">
+    <section id="home" class="sec homepic">
+        <img id="egggif" src="http://media.giphy.com/media/4hnQDVKVARZ6w/giphy.gif" />
+        <div class="overlay"></div>
+        <div class="row">
+            @{ if (User.IsInRole("User"))
+                {
+                    <div class="CENTER">
+                        <div class="homepage">
+                            Hello, recruiter!
+
+                        </div>
+                        <div class="textBelow">
+                            Welcome to my personal website
+
+
+                        </div>
+                    </div>}
+
+
+
+                else
+                {
+                    <div class="CENTER">
+                        <div class="homepage">
+                            Haosong Chen
+
+                        </div>
+                        <div class="textBelow">
+                            Full-Stack Developer
+
+
+                        </div>
+                    </div>}
+            }
+
+            <div class="scrollDown"></div>
+        </div>
+    </section>
+    <section id="event" class="sec blue">
+        <div class="row">
+            <div class="headline">About Me</div>
+
+
+
+            <div class="row biotext">
+
+                @foreach (var item in Model)
+                {
+
+                    @Html.DisplayFor(model => item.Bio)
+
+                }
+
+            </div>
+
+
+
+
+
+            </div>
+        <div class="row downloadupload biotext">
+            @{ if (User.IsInRole("Admin"))
+                {
+                    <form method="post" enctype="multipart/form-data" asp-controller="Files" asp-action="Upload">
+                        <div class="form-group">
+                            <div class="col-md-10">
+                                <p>Upload one or more files using this form:</p>
+                                <input type="file" name="files" multiple>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-md-10">
+                                <input type="submit" value="Upload">
+                            </div>
+                        </div>
+                    </form>
+
+                    <a asp-action="EditBio" class="row biotext" asp-route-id="2">Edit Bio</a>
+
+                }
+                }
+
+            @{ if (User.IsInRole("Admin") || User.IsInRole("User"))
+                {
+            <div>
+                <a class="row biotext" href="@Url.Action("viewResume", "Home")" target="_blank">View My Resume</a>
+            </div>
+            <a class="row biotext" asp-controller="Files" asp-action="Download">
+                Download My Resume
+            </a>
+                    }
+                }
+
+        </div>
+    </section>
+    <section id="project" class="sec grey">
+        <div class="row">
+            <div class="headline">Project</div>
+            <div class="row">
+                <div class="box1">
+                    <div class="first">
+                        <div class="text1">
+                            IT Consulting Project
+
+
+                        </div>
+                    </div>
+                    <div class="second">
+                        <div class="img1">
+                            <img src="images/consu.jpg">
+
+                        </div>
+
+                        <div class="text2">
+                            Whether you are looking for some expert advice on personal or corporate matters, or
+                            simply need that extra push from a professional consultant, you have come to the right
+                            place. As a well renowned Information Technology Consultant, I provide my clients with
+                            all the advice and tools they need to make their best choices. Find more in my project
+                            page.
+
+
+                        </div>
+
+                        <div class="button">
+
+                            <div class="buttontext">
+                                <a href="@Url.Action("project1", "Home")" target="_blank">More</a>
+                            </div>
+
+
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+                <div class="box2">
+                    <div class="first">
+                        <div class="text1">
+                            Network Setup Project
+
+
+                        </div>
+                    </div>
+                    <div class="second">
+                        <div class="img1">
+                            <img src="images/server.jpg">
+
+                        </div>
+
+                        <div class="text2">
+                            The main purpose of this project was for simulating Syracuse University's networking in
+                            a smaller scale, so it would be easier and more clear for instructors to demonstrate it
+                            to students. including configuring routing protocols, VLANs, DHCP server, NAT router,
+                            and implementing ACL and various security features. Find more on my project page.
+
+
+
+                        </div>
+
+                        <div class="button">
+
+                            <div class="buttontext">
+                                <a href="@Url.Action("project2", "Home")" target="_blank">More</a>
+                            </div>
+
+
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+                <div class="clearFix"></div>
+
+
+
+
+            </div>
+
+        </div>
+
+
+    </section>
+
+
+</div>
+
+
+
+<section id="contact" class="sec grey1">
+    <div class="row">
+        <div class="contactTitle">CONTACT ME</div>
+       <div class="row">
+           <div class="CommentText" style="text-align:center;margin-top:100px;">Email: hchen53@syr.edu</div>
+
+
+
+       </div>
+
+        
+    </div>
+
+</section>

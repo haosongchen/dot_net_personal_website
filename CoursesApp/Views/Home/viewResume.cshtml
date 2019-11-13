@@ -1,0 +1,43 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+    ViewData["Title"] = "MyResume";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="nav">
+    <div class="row">
+        <div class="title">Portfolio</div>
+
+
+        <div class="navItem">
+
+            <a asp-controller="Home" asp-action="Index">Home</a>
+         
+            @if (SignInManager.IsSignedIn(User))
+            {
+
+                <a>@User.Identity.Name</a>
+
+
+                <form class="form-inline" asp-action="Logout" asp-controller="Account" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                    <button type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+                </form>
+
+            }
+            else
+            {
+
+
+                <a asp-action="Login" asp-controller="Account" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">Login</a>
+
+            }
+
+        </div>
+
+    </div>
+</div>
+<div id="embedResume">
+    <iframe src="~/FileStorage/Resume.pdf" width="800" height="1070"></iframe>
+</div>

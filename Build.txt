@@ -1,0 +1,28 @@
+e
+Build.txt
+=================================================================
+ *
+ * This project builds an Asp.Net Core Mvc application that:
+ * - Defines a set of courses, and a set of lectures for each course.
+ *   That generates a one-to-many relationship in the Database.
+ * - Uses Entity Framework to manage all data access.
+ * - Uses Authentication (but does not have any roles yet).
+ * - Uses Session to save a table key across two AddLecture Views.
+ * - Shows how to extract a record from a Course table, along with
+ *   data it refers to in another Lecture table.
+ * - Shows how View structure is determined by the data structure
+ *   as well as the application.
+ *   
+ * This is a demo for class, so the error handling is fairly sparse.
+ * 
+
+If you have just downloaded this solution from the College Directory:
+
+1. The zip file does not contain a database, so you will have to rebuild it.
+   First, unzip and build the project, but don't run it yet.
+2. Delete all content from the Migrations folder.
+3. Select top menu Tools > NuGet Package Manager > Package Manager Console.
+4. At the Console prompt, PM>, type add-migration [Initial] where [...] is the name of the migration
+5. At the Console prompt type update-database
+
+Now you will be able to run the project and add content.

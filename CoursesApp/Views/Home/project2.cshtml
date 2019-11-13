@@ -1,0 +1,110 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+
+@{
+    ViewData["Title"] = "project2";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="nav">
+    <div class="row">
+        <div class="title">Portfolio</div>
+
+
+        <div class="navItem">
+
+            <a asp-controller="Home" asp-action="Index">Home</a>
+            <a asp-controller="Home" asp-action="project1">Previous</a>
+            @if (SignInManager.IsSignedIn(User))
+            {
+
+                <a>@User.Identity.Name</a>
+
+
+                <form class="form-inline" asp-action="Logout" asp-controller="Account" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                    <button type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+                </form>
+
+            }
+            else
+            {
+
+
+                <a asp-action="Login" asp-controller="Account" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">Login</a>
+
+            }
+
+        </div>
+
+    </div>
+</div>
+<div class="parallax1"></div>
+<div class="container">
+    <div class="row">
+        <div class="projectTitle">
+            Project: University Networking Setup
+        </div>
+        <div class="projectText">
+            The University Networking Setup Project was for designing and building Syracuse University's model network, which consisted of four parts: calculating and assigning IP addresses; configuring data center DHCP servers (Figure 1-1); implementing various protocols on Cisco switches and securing the network.
+
+        </div>
+        <div class="projectImg">
+            <img src="~/images/closet.jpg">
+        </div>
+        <div class="caption">
+            Figure 1-1
+        </div>
+        <div class="projectText">
+            The main purpose of this project was for simulating Syracuse University's networking in a smaller scale, so it would be easier and more clear for instructors to demonstrate it to students. I served as the networking engineer in the project team and was responsible for designing the bluwprint of our model network (Figure 1-2).
+        </div>
+        <div class="projectImg3">
+            <img src="~/images/net.jpg">
+        </div>
+        <div class="caption">
+            Figure 1-2
+
+        </div>
+        <div class="projectText">
+            I was also responsible for configuring Cisco's C2960X switches and implementing protocols. It took us about three days in the iSchool's server room (Figure 1-3) to complete this project. In the implementation process, I personally handled on-site analysis, inspection and implementation of proposed solutions.
+        </div>
+        <div class="projectImg">
+            <img src="~/images/server_room.jpg">
+        </div>
+        <div class="caption">
+            Figure 1-3
+        </div>
+        <div class="projectText">
+            After we created the model network, it had the capabilities of connecting to the internet and sharing information just like the real one. In the past, it was hard for instructors to explain SU's network to students because it was too complex. The old-version of SU's network diagram (Figure 1-4) usually confused students.
+        </div>
+        <div class="projectImg">
+            <img src="~/images/sample.jpg">
+        </div>
+        <div class="caption">
+            Figure 1-4
+        </div>
+        <div class="projectText">
+            Now instructors of the Advanced Networking course used the simplified model network for their class material. It helped them improve the performance of the networking course. Besides that, instructors of information security courses also used it as example of the ACL because I deployed access list control(ACL) (Figure 1-5) on each device, which kept the information confidential from unauthorized users.
+        </div>
+        <div class="projectImg">
+            <img src="~/images/ACL.jpg">
+        </div>
+        <div class="caption">
+            Figure 1-5
+        </div>
+        <div class="lastprojectText">
+
+        </div>
+
+
+
+
+
+
+    </div>
+
+
+
+
+</div>

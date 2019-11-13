@@ -1,0 +1,477 @@
+﻿
+
+body {
+    background-color: #FFFFFF;
+    padding: 0px;
+    margin: 0px;
+}
+
+#embedResume{
+    text-align:center;
+    margin-top:20px;
+    padding-top:10px;
+}
+
+
+
+
+.row {
+    max-width: 1128px;
+    margin: 0 auto;
+}
+
+.nav {
+    width: 100%;
+    height: 80px;
+    background-color: #000080;
+    font-size: 12px;
+    color: #000000;
+    position: fixed;
+    top: 0px;
+    box-shadow: 0 2px 3px rgba(1, 2, 2, 0.2);
+    -moz-box-shadow: 0 2px 3px rgba(1, 2, 2, 0.2);
+    -webkit-box-shadow: 0 2px 3px rgba(1, 2, 2, 0.2);
+    z-index: 1000;
+}
+
+    .nav a {
+        font-family: sans-serif;
+        text-decoration: none;
+        font-size: 16px;
+        padding: 0px 10px;
+        margin: 0px 10px;
+        color: #fff;
+        display: inline-block;
+        line-height: 80px;
+    }
+
+.form-inline {
+    font-family: sans-serif;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 0px 10px;
+    margin: 0px 10px;
+    color: #fff;
+    display: inline-block;
+    line-height: 70px;
+}
+
+.navItem {
+    float: right;
+}
+
+.nav a:hover {
+    background-color: #D3D3D3;
+}
+
+.title {
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
+    font-size: 35px;
+    line-height: 70px;
+    float: left;
+}
+
+
+
+#home {
+    position: relative;
+}
+
+.homepic {
+    background-image: url("../images/homeback.jpg");
+    background-size: cover;
+    width: 100%;
+}
+
+
+.sec {
+    height: 770px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin: 0px auto;
+}
+
+
+.headline {
+    font-family: "Open Sans", sans-serif;
+    font-size: 50px;
+    color: #fff;
+    font-weight: bold;
+}
+
+.contactTitle {
+    font-family: "Open Sans", sans-serif;
+    font-size: 50px;
+    color: #000;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+
+.homepage {
+    text-align: center;
+    color: #fff;
+    font-size: 80px;
+    font-weight: bolder;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+
+
+
+.textBelow {
+    font-family: "Lora", sans-serif;
+    color: #fff;
+    font-size: 20px;
+    line-height: 26px;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.loginPageText {
+font-family: 'Roboto', sans-serif;
+    color: #000;
+    font-size: 15px;
+}
+
+.loginPageButton {
+    color: #0099CC;
+    background: transparent;
+    border: 2px solid #0099CC;
+    border-radius: 6px;
+    border: none;
+    color: white;
+    padding: 11px 22px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    margin-top:15px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.loginPageButton2 {
+    background-color: white;
+    color: black;
+    border: 2px solid #000080;
+}
+
+    .loginPageButton2:hover {
+        background-color: #000080;
+        color: white;
+    }
+
+.biotext {
+    font-family: sans-serif;
+    color: #fff;
+    font-size: 20px;
+    line-height: 1.5;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.6);
+    z-index: 5;
+}
+
+.CENTER {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    z-index: 100;
+}
+
+.blue {
+    width: 100%;
+    background-color: #435494;
+}
+
+.grey {
+    width: 100%;
+    background-color: #808080;
+}
+
+.grey1 {
+    background-color: #cde0df;
+    width: 100%
+}
+
+
+.box1 {
+    width: 520px;
+    float: left;
+    margin-left: 6px;
+}
+
+.first {
+    background-color: #435494;
+    height: 50px;
+    margin-top: 40px;
+}
+
+.text1 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    line-height: 50px;
+}
+
+.second {
+    height: 600px;
+    background-color: #FFFFFF;
+}
+
+.img1 img {
+    width: 450px;
+    height: 300px;
+    margin-left: 35px;
+    margin-top: 25px;
+}
+
+.text2 {
+    font-family: 'Roboto', sans-serif;
+    color: #000;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 15px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+.button {
+    height: 50px;
+    width: 150px;
+    border-radius: 5%;
+    background-color: #000080;
+    margin-top: 21px;
+    margin-left: 180px;
+}
+
+
+
+
+.buttontext {
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 50px;
+}
+
+    .buttontext a {
+        text-decoration: none;
+        color: inherit;
+    }
+
+        .buttontext a:hover {
+            font-size: 30px;
+            transition: 0.3s;
+        }
+
+.box2 {
+    width: 520px;
+    float: left;
+    margin-left: 70px;
+}
+
+.clearFix {
+    clear: both;
+}
+
+.parallax {
+    background-image: url("../images/gear.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax1 {
+    background-image: url("../images/room.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    background-color: #435494;
+    width: 100%;
+}
+
+
+
+.projectTitle {
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.projectText {
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+    font-size: 22px;
+    line-height: 2;
+    margin-top: 10px;
+}
+
+.lastprojectText {
+    font-family: "Roboto", sans-serif;
+    color: #fff;
+    font-size: 22px;
+    line-height: 2;
+    margin-top: 10px;
+    padding-bottom: 100px;
+}
+
+.projectImg {
+    margin-top: 7px;
+    margin-left: 45px;
+}
+
+.projectImg2 {
+    margin-top: 7px;
+    margin-left: 25%;
+}
+
+.projectImg3 {
+    margin-top: 7px;
+    margin-left: 33%
+}
+
+.caption {
+    font-family: "Open Sans", sans-serif;
+    color: #fff;
+    font-size: 12px;
+    text-align: center;
+}
+
+.downloadupload{
+    margin-top:60px;
+}
+
+#egggif {
+    position: absolute;
+    top:20%;
+    left:45%;
+    display: none;
+}
+
+.largeParagraph {
+    width: 900px;
+    height: 450px;
+    padding:5px;
+    margin-top:30px;
+}
+
+#notfound {
+    position: relative;
+    height: 100vh;
+}
+
+    #notfound .notfound {
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        -webkit-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        transform: translate(-50%, -50%);
+    }
+
+.notfound {
+    max-width: 520px;
+    width: 100%;
+    line-height: 1.4;
+    text-align: center;
+}
+
+    .notfound .notfound-404 {
+        position: relative;
+        height: 200px;
+        margin: 0px auto 20px;
+        z-index: -1;
+    }
+
+        .notfound .notfound-404 h1 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 236px;
+            font-weight: 200;
+            margin: 0px;
+            color: #211b19;
+            text-transform: uppercase;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+        }
+
+        .notfound .notfound-404 h2 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: 28px;
+            font-weight: 400;
+            text-transform: uppercase;
+            color: #211b19;
+            background: #fff;
+            padding: 10px 5px;
+            margin: auto;
+            display: inline-block;
+            position: absolute;
+            bottom: 0px;
+            left: 0;
+            right: 0;
+        }
+
+    .notfound a {
+        font-family: 'Montserrat', sans-serif;
+        display: inline-block;
+        font-weight: 700;
+        text-decoration: none;
+        color: #fff;
+        text-transform: uppercase;
+        padding: 13px 23px;
+        background: #000080;
+        font-size: 18px;
+        -webkit-transition: 0.2s all;
+        transition: 0.2s all;
+    }
+
+        .notfound a:hover {
+            background-color: #D3D3D3;
+        }
+
+
+.CommentText {
+    font-family: 'Roboto', sans-serif;
+    color: #000;
+    font-size: 20px;
+    line-height:20px;
+}
+
+.CommentWrapper {
+    padding-left: 20px;
+  
+}

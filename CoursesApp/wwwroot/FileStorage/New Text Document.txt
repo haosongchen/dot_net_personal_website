@@ -1,0 +1,1 @@
+SELECT VendorContactFName + ' ' + left (VendorContactLName, 1) + '.' as Contact, RIGHT(VendorPhone, 8) as Phonefrom Vendors Where SUBSTRING(vendorphone, 2, 3) = 559order by VendorContactFName, VendorContactLName

@@ -1,0 +1,634 @@
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.deps.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.dev.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csprojAssemblyReference.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfoInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.input.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.output.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorCoreGenerate.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateInstituion.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeleteCourse.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditCourse.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\InstituionDetails.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Lectures.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CopyComplete
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.deps.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.dev.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csprojAssemblyReference.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfoInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.input.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.output.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorCoreGenerate.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateInstituion.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeleteCourse.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditCourse.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\InstituionDetails.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Lectures.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CopyComplete
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab10_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.deps.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.dev.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csprojAssemblyReference.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfoInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.input.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.output.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorCoreGenerate.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateInstituion.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeleteCourse.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditCourse.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\InstituionDetails.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Lectures.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab11_Haosong\CSE686 lab10\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CopyComplete
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.deps.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.dev.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csprojAssemblyReference.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfoInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.input.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.output.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorCoreGenerate.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateInstituion.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeleteCourse.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditCourse.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\InstituionDetails.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Lectures.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\CSE686_lab12\CSE686 lab12 api\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CopyComplete
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.deps.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.dev.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csprojAssemblyReference.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfoInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.input.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.output.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorCoreGenerate.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateInstituion.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeleteCourse.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditCourse.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\InstituionDetails.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Lectures.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CopyComplete
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.deps.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.dev.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csprojAssemblyReference.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfoInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.input.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.output.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorCoreGenerate.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateInstituion.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeleteCourse.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditCourse.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\InstituionDetails.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Lectures.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.5\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CopyComplete
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csprojAssemblyReference.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfoInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.deps.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.dev.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.input.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.output.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorCoreGenerate.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateInstituion.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeleteCourse.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditCourse.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\InstituionDetails.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Lectures.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CopyComplete
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\project1.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.6\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\project2.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.deps.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.dev.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csprojAssemblyReference.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfoInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.input.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.output.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorCoreGenerate.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateInstituion.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeleteCourse.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditCourse.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\InstituionDetails.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Lectures.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\project1.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\project2.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.7\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CopyComplete
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.deps.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.dev.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csprojAssemblyReference.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfoInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.input.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.output.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorCoreGenerate.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\AddLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateInstituion.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\DeleteCourse.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditCourse.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditLecture.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\InstituionDetails.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Lectures.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\project1.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\project2.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CopyComplete
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.8\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\viewResume.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.deps.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.dev.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csprojAssemblyReference.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfoInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.input.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.output.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorCoreGenerate.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\project1.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\project2.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\viewResume.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CopyComplete
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateBio.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 1.9\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditBio.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.deps.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.dev.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csprojAssemblyReference.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfoInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.input.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.output.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorCoreGenerate.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateBio.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditBio.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\project1.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\project2.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\viewResume.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CopyComplete
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateComment.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.1\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CommentPage.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.deps.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.dev.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csprojAssemblyReference.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfoInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.input.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.output.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorCoreGenerate.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CommentPage.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateBio.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateComment.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditBio.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\project1.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\project2.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\viewResume.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CopyComplete
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.2\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ErrorHandle.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.deps.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.dev.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csprojAssemblyReference.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfoInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.input.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.output.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorCoreGenerate.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CommentPage.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateBio.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateComment.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditBio.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ErrorHandle.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\project1.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\project2.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\viewResume.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CopyComplete
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.3\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\UploadErrorHandle.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.deps.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.dev.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csprojAssemblyReference.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfoInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.input.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.output.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorCoreGenerate.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CommentPage.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateBio.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateComment.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditBio.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ErrorHandle.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\project1.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\project2.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\UploadErrorHandle.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\viewResume.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\CSE686 2.4\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CopyComplete
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.deps.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.runtimeconfig.dev.json
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\bin\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csprojAssemblyReference.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CoreCompileInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfoInputs.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.AssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.input.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.TagHelpers.output.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorCoreGenerate.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CommentPage.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateBio.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\CreateComment.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\EditBio.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\ErrorHandle.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\project1.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\project2.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\UploadErrorHandle.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Home\viewResume.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.Views.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.dll
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.pdb
+C:\Users\Chenkov\Desktop\SU\spring 2019\CSE686\project\final-demo\CoursesApp\obj\Debug\netcoreapp2.2\PersonalWebsite.csproj.CopyComplete

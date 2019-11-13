@@ -1,0 +1,47 @@
+﻿@model CoursesApp.Models.MyBio
+<!--
+  EditCourse.cshtml - Edit course details
+                      (lectures are handled by AddLecture and EditLecture)
+
+  Jim Fawcett, CSE686 - Internet Programming, Spring 2019
+-->
+
+@{
+    ViewData["Title"] = "Edit My Bio";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="contactTitle">Edit My Bio</h1>
+
+>
+<hr />
+<div class="row text2">
+    <div class="col-md-4">
+        <form asp-action="EditBio">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="MyBioId" class="control-label"></label>
+                <input asp-for="MyBioId" class="form-control" />
+                <span asp-validation-for="MyBioId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Bio" class="control-label"></label>
+                <textarea asp-for="Bio" class="largeParagraph"></textarea>
+                <span asp-validation-for="Bio" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="loginPageButton loginPageButton2" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" class="text2">Back to HomePage</a>
+</div>
+    
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

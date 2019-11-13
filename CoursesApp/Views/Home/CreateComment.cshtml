@@ -1,0 +1,40 @@
+﻿@model CoursesApp.Models.Comment
+
+@{
+    ViewData["Title"] = "LeaveComment";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<body style="background-color:#CDE0DF">
+
+    
+        <h1 style="text-align:center">Leave Comment Here</h1>
+
+        <div class="row">
+            <div class="col-md-4">
+                <form asp-controller="Home" asp-action="CreateComment">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div style="margin-left:40px">
+                        <label asp-for="Name" class="CommentText"></label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label class="CommentText">Comment</label>
+                        <textarea asp-for="CommentText" class="largeParagraph"></textarea>
+                        <span asp-validation-for="CommentText" class="text-danger"></span>
+                    </div>
+                    <div style="padding-top:30px;padding-left:20px">
+                        <input type="submit" value="Comment" class="loginPageButton loginPageButton2" />
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div>
+            <a asp-action="CommentPage" class="CommentText" >Back to Comment Page</a>
+        </div>
+    
+</body>

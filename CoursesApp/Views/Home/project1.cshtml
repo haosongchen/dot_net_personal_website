@@ -1,0 +1,112 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+
+
+@{
+    ViewData["Title"] = "project1";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>project1</h1>
+<div class="nav">
+    <div class="row">
+        <div class="title">Portfolio</div>
+
+
+        <div class="navItem">
+
+            <a asp-controller="Home" asp-action="Index">Home</a>
+            <a asp-controller="Home" asp-action="project2">Next</a>
+            @if (SignInManager.IsSignedIn(User))
+            {
+
+                <a>@User.Identity.Name</a>
+
+
+                <form class="form-inline" asp-action="Logout" asp-controller="Account" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+                    <button type="submit" class="nav-link btn btn-link text-dark">Logout</button>
+                </form>
+
+            }
+            else
+            {
+
+
+                <a asp-action="Login" asp-controller="Account" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">Login</a>
+
+            }
+
+        </div>
+
+    </div>
+</div>
+<div class="parallax"></div>
+<div class="container">
+    <div class="row">
+        <div class="projectTitle">
+            Project: Sunrise Sports Technology Integration Consulting
+        </div>
+        <div class="projectText">
+            The Sunrise Sports Technology Integration was a joint effort consulting project for designing and implementing a business information system, which contained a website (Figure 1-1),
+
+        </div>
+        <div class="projectImg">
+            <img src="~/images/system.png">
+        </div>
+        <div class="caption">
+            Figure 1-1
+        </div>
+        <div class="projectText">
+            a payroll system (Figure 1-2),
+        </div>
+        <div class="projectImg">
+            <img src="~/images/payroll.png">
+        </div>
+        <div class="caption">
+            Figure 1-2
+
+        </div>
+        <div class="projectText">
+            and a inventory checking system (Figure 1-3).
+        </div>
+        <div class="projectImg2">
+            <img src="~/images/level1.png">
+        </div>
+        <div class="caption">
+            Figure 1-3
+        </div>
+        <div class="projectText">
+            The website allows clients to expand their commercial channels and allows customers to order online. When customers place their order online, the payroll system will automatically manages the transaction process. Then the transaction data will be uploaded to Sunrise Sporting Goods's Google Drive, the business owner can view these data anytime. The inventory system will automatically manage the inventory process. The final deliverable for this project was a project booklet. The consulting team delivered the booklet to clients in two months at Syracuse. We conducted this project for the purpose of improving the efficiency of clients' business. I served as the system designer in the consulting team. I was primarily responsible for designing an implementation plan. (Figure 1-4)
+        </div>
+        <div class="projectImg2">
+            <img src="~/ images/implement.png">
+        </div>
+        <div class="caption">
+            Figure 1-4
+        </div>
+        <div class="projectText">
+            For the system as well as creating the flowchart (Figure 1-5) for the overall operation process. My implementation and testing plan ensured the flawless of the implementation process as well as its quality. And the flowchart helped our client who was not familiar with information technologies understood how the system worked.
+        </div>
+        <div class="projectImg">
+            <img src="~/images/chart.png">
+        </div>
+        <div class="caption">
+            Figure 1-5
+        </div>
+        <div class="lastprojectText">
+            After the project team successfully delivered an effective business information system to clients, they could use information system to manage their business efficiently and orderly instead of using pens and papers to document every transactions. Also, Sunrise Sports' customers could stay in house and purchase items on the website. Moreover, clients didn't have to personally call vendors to restock anymore, the business system would complete the inventory process automatically. The following images show you some of my works in this project.
+        </div>
+
+
+
+
+
+
+    </div>
+
+
+
+
+</div>
